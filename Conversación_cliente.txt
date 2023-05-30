@@ -1,0 +1,12 @@
+
+Conexión exitosa al servidor!
+
+
+		------Se inició el chat CLIENTE------
+
+
+(19:43): Cliente -> Prueba cliente
+(19:43): Servidor -> Prueba servidor
+(19:44): Cliente -> cliente 2
+(19:44): Servidor -> servidor 2
+(19:44): Cliente -> adios
